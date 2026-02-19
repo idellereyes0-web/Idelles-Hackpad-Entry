@@ -1,2 +1,2 @@
 # Idelles-Hackpad-Entry
-This is my entry for hackpad.
+This is my entry for the hackclub hackpad blueprint! My hackpad is simple and is used to adjust volume, open apps, and to copy/paste. BOM - 4x MX-Style switches, 4x white blank DSA keycaps 1x unsoldered Seeed XIAO RP2040, 1x EC11 Rotary encoder, 1 piece case. Top case piece screenshot (box outline to represent pcb) Screenshot 2026-02-15 215356 Screenshot of PCB Screenshot 2026-02-15 215546 Screenshot of Schematic Screenshot 2026-02-06 211901 Screenshot 2026-02-15 220507
